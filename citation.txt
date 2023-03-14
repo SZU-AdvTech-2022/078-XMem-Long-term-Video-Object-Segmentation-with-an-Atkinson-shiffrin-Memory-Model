@@ -1,0 +1,7 @@
+@article{REPO-079,
+    author = "Cheng, Ho Kei and Schwing, Alexander G.",
+    journal = "ArXiv",
+    title = "{XMem: Long-term Video Object Segmentation with an Atkinson-shiffrin Memory Model}",
+    volume = "abs/2207.07115",
+    year = "2022"
+}
